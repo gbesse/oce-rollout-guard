@@ -1,0 +1,6 @@
+{
+  "namespaceId": "ns_REPLACE_WITH_TEST_NAMESPACE",
+  "agentId": "agt_REPLACE_WITH_TEST_AGENT",
+  "occCommand": "occ",
+  "probeCommand": ["node", "/absolute/path/to/oce-agent-conformance/cli.js", "/private/path/to/conformance-config.json"]
+}

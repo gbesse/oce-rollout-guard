@@ -1,0 +1,10 @@
+{
+  "name": "oce-rollout-guard",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "bin": { "oce-rollout-guard": "./src/cli.js" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
